@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
+	"github.com/constwhite/goapi/api"
 	"github.com/constwhite/goapi/internal/tools"
-	"github.com/constwhite/gowapi/api"
 	log "github.com/sirupsen/logrus"
 )
 
