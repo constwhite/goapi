@@ -6,8 +6,6 @@ import (
 
 	"github.com/constwhite/goapi/api"
 	"github.com/constwhite/goapi/internal/tools"
-	"github.com/constwhite/gowapi/api"
-	"github.com/constwhite/gowapi/internal/tools"
 
 	"github.com/gorilla/schema"
 	log "github.com/sirupsen/logrus"

@@ -1,4 +1,4 @@
-module github.com/constwhite/gowapi
+module github.com/constwhite/goapi
 
 go 1.22.0
 
